@@ -9,4 +9,4 @@ The director of the Fruitmark stores wants to manage his fruit stocks via a mobi
 4. The application is obviously simple and ergonomic (For the evaluation of the applications, we will also look at the care that has been put into this part)
 
 ## Getting started
-`npm start` inside [Fruitmark](./Fruitmark/) folder to run the project locally
+`npm start` inside [fruitmarkapp](./fruitmarkapp/) folder to run the project locally
